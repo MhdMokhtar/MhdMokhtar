@@ -11,9 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- ----------------------------------------------------------------------
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdMokhtar&theme=tokyonight)
  
  ----------------------------------------------------------------------
  
